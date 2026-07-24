@@ -40,7 +40,7 @@ Instead of asking residents to trust the software, Polis shows them why each ans
 - [My Role](#my-role)
 - [Synthetic-First Showcase](#synthetic-first-showcase)
 - [Public Showcase, Private Source](#public-showcase-private-source)
-- [About NemoClaw](#about-nemoclaw)
+- [Part of the NemoClaw Ecosystem](#part-of-the-nemoclaw-ecosystem)
 - [The Goal](#the-goal)
 - [Related Documents](#related-documents)
 
@@ -206,9 +206,18 @@ This is a **public, recruiter-facing showcase repository**. It presents the conc
 
 The production source code, private development history, credentials, internal prompts, security details, and non-public implementation are intentionally maintained in **separate private repositories** and are not included here.
 
-## About NemoClaw
+## Part of the NemoClaw Ecosystem
 
-Polis is part of **NemoClaw**, a collection of practical software projects built around understandable systems, visible evidence, privacy, transparency, and meaningful human control.
+**[NemoClaw](https://github.com/happySNAG/nemoclaw-portfolio)** is a portfolio of trustworthy software systems built around evidence, provenance, consent, and human authority.
+
+- **[Skippy](https://github.com/happySNAG/Skippy-AI-Companion)** — human-centered personal AI
+- **Polis** — governed civic intelligence · *you are here*
+- **[World](https://github.com/happySNAG/World-Knowledge-Engine)** — source-grounded knowledge infrastructure
+- **[Crate](https://github.com/happySNAG/Crate-Music-Stewardship)** — local-first digital stewardship
+
+Each project keeps its own identity and stack. What they share is the engineering posture, not a runtime.
+
+**[Explore the full ecosystem →](https://github.com/happySNAG/nemoclaw-portfolio)**
 
 ## The Goal
 
