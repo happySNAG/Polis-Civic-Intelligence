@@ -1,0 +1,15 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+desktop.ini
+*.mov
+*.mp4
+*.zip
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.mobileprovision
